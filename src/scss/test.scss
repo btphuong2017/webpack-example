@@ -1,0 +1,14 @@
+#testMain {
+	color: red;
+}
+@font-face {
+	font-family: 'gillsansbold';
+	src: url('../fonts/Gill Sans Bold.otf');
+	font-weight: 900;
+}
+#testVendor {
+	font-family: 'gillsansbold';
+}
+#testMain {
+	background-image: url('../images/logo.png');
+}
